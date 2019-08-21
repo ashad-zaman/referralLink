@@ -1,0 +1,25 @@
+{
+  "name": "generate.referrallin",
+  "version": "1.0.0-k",
+  "description": "",
+  "cordova": {
+    "id": "generate.referrallin",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashad-zaman/referralLink.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Ashaduzzaman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashad-zaman/referralLink/issues"
+  },
+  "homepage": "https://github.com/ashad-zaman/referralLink#readme"
+}
